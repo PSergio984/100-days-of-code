@@ -8,4 +8,5 @@
 ### Day 2: December 18,2024
 **Today's Progress**: Learned simple git commands,how to use vscode,basic html and starting on css foundations
 
-
+### Day 3: December 21,2024
+**Today's Progress**: Learned CSS different type of selectors, CSS types
