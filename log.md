@@ -10,3 +10,6 @@
 
 ### Day 3: December 21,2024
 **Today's Progress**: Learned CSS different type of selectors, CSS types
+
+### Day 4-6: December 22-24,2024
+**Progress** : Learned CSS Box Model and Flexbox
