@@ -13,3 +13,6 @@
 
 ### Day 4-6: December 22-24,2024
 **Progress** : Learned CSS Box Model and Flexbox
+
+### Day 5-7: December 25-27,2024
+**Progress** : Took some break inbetween but finished css practices and started planning for m simple prject landing page
